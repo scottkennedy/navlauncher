@@ -145,12 +145,16 @@ public class NavLauncherFragment extends Fragment {
         if (!mStartupScreenLaunched) {
             final String startupScreen = settings.getStartupScreen();
 
-            if (startupScreen.equals(Settings.STARTUP_SCREEN_CONTACTS)) {
-                new ContactSelector(NavLauncherFragment.this).selectContact(SELECT_CONTACT);
-            } else if (startupScreen.equals(Settings.STARTUP_SCREEN_FAVORITES)) {
-                showFavorites();
-            } else if (startupScreen.equals(Settings.STARTUP_SCREEN_HISTORY)) {
-                showHistory();
+            switch(settings.getStartupScreen()) {
+                case Settings.STARTUP_SCREEN_CONTACTS:
+                    new ContactSelector(NavLauncherFragment.this).selectContact(SELECT_CONTACT);
+                    break;
+                case Settings.STARTUP_SCREEN_FAVORITES:
+                    showFavorites();
+                    break;
+                case Settings.STARTUP_SCREEN_HISTORY:
+                    showHistory();
+                    break;
             }
 
             mStartupScreenLaunched = true;
@@ -315,12 +319,6 @@ public class NavLauncherFragment extends Fragment {
                         Log.w(getClass().getSimpleName(), "bitmap was null for id: " + id);
                     }
                 }
-            } catch (final FileNotFoundException e) {
-                if (Settings.LOGGING_ENABLED) {
-                    e.printStackTrace();
-                }
-
-                setDefaultAddImage(mBtnQuickFav[id]);
             } catch (final IOException e) {
                 if (Settings.LOGGING_ENABLED) {
                     e.printStackTrace();

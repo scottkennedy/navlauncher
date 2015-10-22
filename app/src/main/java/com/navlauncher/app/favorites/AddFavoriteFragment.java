@@ -383,10 +383,6 @@ public class AddFavoriteFragment extends Fragment {
                     inputStream = getActivity().openFileInput(Settings.getQuickFavImageFileName(mFavoriteId));
                     mPhoto = BitmapFactory.decodeStream(inputStream, null, options);
                     inputStream.close();
-                } catch (final FileNotFoundException e) {
-                    if (Settings.LOGGING_ENABLED) {
-                        e.printStackTrace();
-                    }
                 } catch (final IOException e) {
                     if (Settings.LOGGING_ENABLED) {
                         e.printStackTrace();

@@ -75,7 +75,7 @@ public class HistoryFragment extends ListFragment {
         final DatabaseHelper dbHelper = new DatabaseHelper(getActivity());
         final List<Destination> destinations = dbHelper.getHistory();
 
-        final HashMap<Integer, Destination> replacements = new HashMap<Integer, Destination>();
+        final HashMap<Integer, Destination> replacements = new HashMap<>();
 
         for (final Destination destination : destinations) {
             final Favorite fav = dbHelper.getFavorite(destination.getAddress());
@@ -93,7 +93,7 @@ public class HistoryFragment extends ListFragment {
             destinations.add(index, replacements.get(index));
         }
 
-        setListAdapter(new ArrayAdapter<Destination>(getActivity(), android.R.layout.simple_list_item_1, destinations.toArray(new Destination[destinations
+        setListAdapter(new ArrayAdapter<>(getActivity(), android.R.layout.simple_list_item_1, destinations.toArray(new Destination[destinations
                 .size()])));
     }
 

@@ -36,7 +36,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
     public List<Favorite> getFavorites() {
         final SQLiteDatabase db = getReadableDatabase();
-        final List<Favorite> favorites = new ArrayList<Favorite>();
+        final List<Favorite> favorites = new ArrayList<>();
 
         final String orderBy = FavoritesColumns.NAME;
 
@@ -166,7 +166,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
     public List<Destination> getHistory() {
         final SQLiteDatabase db = getReadableDatabase();
-        final List<Destination> destinations = new ArrayList<Destination>();
+        final List<Destination> destinations = new ArrayList<>();
 
         final String orderBy = HistoryColumns._ID + " DESC";
 
