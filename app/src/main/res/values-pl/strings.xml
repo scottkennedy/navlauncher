@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.2.3 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Wybierz\nkontakt</string>
+    <string name="favorites">Ulubione</string>
+    <string name="history">Historia</string>
+    <!-- About -->
+    <string name="about">O programie</string>
+    <string name="aboutText">Nav Launcher wersja [VERSION]</string>
+    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps and Google Maps Navigation Copyright 2012 Google</string>
+    <string name="translationCredits">Polish translation by paw3lk</string>
+    <!-- InstallNav -->
+    <string name="installNav">Zainstaluj Nawigację Map Google</string>
+    <string name="installInfo">Nie masz zainstalowanej Nawigacji Map Google. Nav Launcher wymaga Nawigacji Map Google. Czy chcesz uruchomić Market i pobrać Mapy Google?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Dodaj do ulubionych</string>
+    <string name="destinationName">Miejsce docelowe:</string>
+    <string name="destinationAddress">Adres docelowy:</string>
+    <string name="add">Dodaj</string>
+    <string name="modify">Zmodyfikuj</string>
+    <string name="remove">Usuń</string>
+    <string name="enterNameAddress">Musisz wpisać nazwę i adres</string>
+    <!-- Settings -->
+    <string name="settings">Ustawienia</string>
+    <string name="save">Zapisz</string>
+
+</resources>

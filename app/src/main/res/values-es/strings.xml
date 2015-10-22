@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.9.9 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Contactos</string>
+    <string name="favorites">Favoritos</string>
+    <string name="history">Historial</string>
+    <!-- About -->
+    <string name="about">Acerca de</string>
+    <string name="aboutText">Nav Launcher versión [VERSION]</string>
+    <string name="copyright">Derechos de autor 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Derechos de autor de Google Maps y Google Maps Navigation 2012 Google</string>
+    <string name="translationCredits">Traducción al español por :No-Frost:</string>
+    <!-- InstallNav -->
+    <string name="installNav">Instalar Google Maps Navigation</string>
+    <string name="installInfo">No tienes instalado Google Maps Navigation. Nav Launcher requiere Google Maps Navigation. Deseas ir al Market y descargar Google Maps?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Agregar Favorito</string>
+    <string name="addQuickFavorite">Agregar Favorito Rápido</string>
+    <string name="destinationName">Nombre:</string>
+    <string name="destinationAddress">Dirección:</string>
+    <string name="favoritePicture">Imagen:</string>
+    <string name="add">Agregar</string>
+    <string name="modify">Modificar</string>
+    <string name="remove">Remover</string>
+    <string name="enterNameAddress">Debes ingresar un nombre y dirección.</string>
+    <!-- History -->
+    <string name="clear">Borrar</string>
+    <!-- Settings -->
+    <string name="settings">Configuración</string>
+    <string name="startupScreen">Pantalla de inicio</string>
+    <string name="startupScreenMain">Principal</string>
+    <string name="save">Guardar</string>
+    <!-- Update -->
+
+</resources>

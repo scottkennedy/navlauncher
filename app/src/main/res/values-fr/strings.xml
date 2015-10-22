@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.2.0 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Sélectionner\nContact</string>
+    <string name="favorites">Favoris</string>
+    <string name="history">Historique</string>
+    <!-- About -->
+    <string name="about">À propos</string>
+    <string name="aboutText">Nav Launcher version [VERSION]</string>
+    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps et Google Maps Navigation Copyright 2012 Google</string>
+    <string name="translationCredits">Traduction Française par Bicou et cristal66</string>
+    <!-- InstallNav -->
+    <string name="installNav">Installer Google Maps Navigation</string>
+    <string name="installInfo">Vous n\'avez pas installé Google Maps Navigation. Nav Launcher nécessite Google Maps Navigation.</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Ajouter un favori</string>
+    <string name="destinationName">Nom de la destination:</string>
+    <string name="destinationAddress">Adresse de la destination:</string>
+    <string name="add">Ajouter</string>
+    <string name="modify">Modifier</string>
+    <string name="remove">Supprimer</string>
+    <string name="enterNameAddress">Vous devez entrer un nom et une adresse.</string>
+
+</resources>

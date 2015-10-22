@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="startupScreens">
+        <item>@string/startupScreenMain</item>
+        <item>@string/selectContact</item>
+        <item>@string/favorites</item>
+        <item>@string/history</item>
+    </string-array>
+    <string-array name="startupScreenValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>

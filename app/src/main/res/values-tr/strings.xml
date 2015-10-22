@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.9.9 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Kartvizitler</string>
+    <string name="favorites">Sık Kullanılanlar</string>
+    <string name="history">Geçmiş</string>
+    <!-- About -->
+    <string name="about">Hakkında</string>
+    <string name="aboutText">Nav Launcher sürümü [VERSION]</string>
+    <string name="copyright">Telif hakkı 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps ve Google Maps Navigation Telif hakkı 2012 Google</string>
+    <string name="translationCredits">Türkçe çevirisi Binus tarafından</string>
+    <!-- InstallNav -->
+    <string name="installNav">Google Maps Navigation\'ı yükle</string>
+    <string name="installInfo">Yüklü Google Maps Navigation\'ın yok. Nav Launcher Google Maps Navigation gerektirir. Market\'e gidip Google Maps\'i indirmek ister misin ?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Sık kullanılana ekle</string>
+    <string name="addQuickFavorite">Hızlı Sık Kullanılana ekle</string>
+    <string name="destinationName">İsim:</string>
+    <string name="destinationAddress">Adres:</string>
+    <string name="favoritePicture">Fotoğraf:</string>
+    <string name="add">Ekle</string>
+    <string name="modify">Düzenle</string>
+    <string name="remove">Kaldır</string>
+    <string name="enterNameAddress">Bir isim ve adres girmelisin.</string>
+    <!-- History -->
+    <string name="clear">Temizle</string>
+    <!-- Settings -->
+    <string name="settings">Ayarlar</string>
+    <string name="startupScreen">Başlangıç Ekranı</string>
+    <string name="startupScreenMain">Ana</string>
+    <string name="save">Kaydet</string>
+
+</resources>

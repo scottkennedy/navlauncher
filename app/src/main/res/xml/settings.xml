@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<ListPreference
+		android:title="@string/startupScreen"
+		android:key="@string/startupScreenSetting"
+		android:entries="@array/startupScreens"
+		android:entryValues="@array/startupScreenValues"
+		android:defaultValue="0"
+	/>
+	<CheckBoxPreference
+		android:title="@string/replaceCarDock"
+		android:key="@string/replaceCarDockSetting"
+		android:defaultValue="false"
+	/>
+	<Preference
+		android:title="@string/save"
+		android:key="@string/savePreference"
+	/>
+</PreferenceScreen>

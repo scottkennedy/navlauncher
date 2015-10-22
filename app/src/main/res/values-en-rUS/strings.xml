@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 3.0.0 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="favorites">Favorites</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Add Favorite</string>
+    <string name="addQuickFavorite">Add Quick Favorite</string>
+
+</resources>

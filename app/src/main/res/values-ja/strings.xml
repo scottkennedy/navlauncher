@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.9.9 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">連絡先</string>
+    <string name="favorites">お気に入り</string>
+    <string name="history">履歴</string>
+    <!-- About -->
+    <string name="about">インフォ</string>
+    <string name="aboutText">Nav Launcherバージョン [VERSION]</string>
+    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps and Google Maps Navigation Copyright 2012 Google</string>
+    <string name="translationCredits">日本語化：流兎</string>
+    <!-- InstallNav -->
+    <string name="installNav">Google Mapsナビをインストール</string>
+    <string name="installInfo">Google Mapsナビがインストールされていません。Nav Launcherを使うためにはGoogle Mapsナビが必要です。マーケットからGoogle Mapsをダウンロードしますか？</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <!-- Favorites -->
+    <string name="addFavorite">お気に入りを追加</string>
+    <string name="addQuickFavorite">クイックお気に入りを追加</string>
+    <string name="destinationName">名前：</string>
+    <string name="destinationAddress">住所：</string>
+    <string name="favoritePicture">画像：</string>
+    <string name="add">追加</string>
+    <string name="modify">編集</string>
+    <string name="remove">削除</string>
+    <string name="enterNameAddress">名前もしくは住所を入力してください。</string>
+    <!-- History -->
+    <string name="clear">クリア</string>
+    <string name="clearConfirm">履歴をクリアします、よろしいですか?</string>
+    <!-- Settings -->
+    <string name="settings">設定</string>
+    <string name="startupScreen">スタートアップ画面</string>
+    <string name="startupScreenMain">メイン</string>
+    <string name="replaceCarDock">Car Homeを置き換える</string>
+    <string name="save">保存</string>
+
+</resources>

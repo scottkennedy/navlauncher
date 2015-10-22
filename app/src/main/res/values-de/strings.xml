@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.9.9 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Kontakte</string>
+    <string name="favorites">Favoriten</string>
+    <string name="history">Letzte Ziele</string>
+    <!-- About -->
+    <string name="about">Über</string>
+    <string name="aboutText">Nav Launcher version [VERSION]</string>
+    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps und Google Maps Navigation Copyright 2012 Google</string>
+    <string name="translationCredits">Deutsche Übersetzung von ThiasB</string>
+    <!-- InstallNav -->
+    <string name="installNav">Google Maps Navigation installieren</string>
+    <string name="installInfo">Nav Launcher benötigt Google Maps Navigation. Google Maps Navigation ist nicht installiert. Google Maps aus dem Market herunterladen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Favoriten hinzufügen</string>
+    <string name="addQuickFavorite">Schnellwahl hinzufügen</string>
+    <string name="destinationName">Name:</string>
+    <string name="destinationAddress">Adresse:</string>
+    <string name="favoritePicture">Bild:</string>
+    <string name="add">Hinzufügen</string>
+    <string name="modify">Bearbeiten</string>
+    <string name="remove">Entfernen</string>
+    <string name="enterNameAddress">Name und Adresse eingeben.</string>
+    <!-- History -->
+    <string name="clear">Leeren</string>
+    <string name="clearConfirm">Bist du sicher, dass du die Liste der letzten Ziele leeren möchtest?</string>
+    <!-- Settings -->
+    <string name="settings">Einstellungen</string>
+    <string name="startupScreen">Startbildschirm</string>
+    <string name="startupScreenMain">Übersicht</string>
+    <string name="replaceCarDock">Car Home ersetzen</string>
+    <string name="save">Speichern</string>
+    <!-- Update -->
+
+</resources>

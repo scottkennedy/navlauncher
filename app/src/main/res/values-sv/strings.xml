@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.9.9 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Kontakter</string>
+    <string name="favorites">Favoriter</string>
+    <string name="history">Historik</string>
+    <!-- About -->
+    <string name="about">Om</string>
+    <string name="aboutText">Nav Launcher version [VERSION]</string>
+    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps och Google Maps Navigation Copyright 2012 Google</string>
+    <string name="translationCredits">Svensk översättning av Anakin</string>
+    <!-- InstallNav -->
+    <string name="installNav">Installera Google maps navigation</string>
+    <string name="installInfo">Ni har inte Google maps navigation installerat. Nav Launcher bevöver Google maps navigation för att fungera. Vill Ni gå till Androidbutiken och installera Google maps?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Lägg till favoriter</string>
+    <string name="addQuickFavorite">Lägg till en snabb favorit</string>
+    <string name="destinationName">Namn:</string>
+    <string name="destinationAddress">Adress:</string>
+    <string name="favoritePicture">Bild:</string>
+    <string name="add">Lägg till</string>
+    <string name="modify">Modifiera</string>
+    <string name="remove">Ta bort</string>
+    <string name="enterNameAddress">Ni måste ange Namn och Adress.</string>
+    <!-- History -->
+    <string name="clear">Rensa</string>
+    <string name="clearConfirm">Är ni säker på att ni vill rensa Er historik?</string>
+    <!-- Settings -->
+    <string name="settings">Inställningar</string>
+    <string name="startupScreen">Startskärm</string>
+    <string name="startupScreenMain">Huvudsida</string>
+
+</resources>

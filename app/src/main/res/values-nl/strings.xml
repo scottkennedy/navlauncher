@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.9.9 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Contactpersonen</string>
+    <string name="favorites">Favorieten</string>
+    <string name="history">Geschiedenis</string>
+    <!-- About -->
+    <string name="about">Over</string>
+    <string name="aboutText">Nav Launcher versie [VERSION]</string>
+    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps en Google Maps Navigation copyright 2012 Google</string>
+    <string name="translationCredits">Nederlandse vertaling door SteveMcAwesome</string>
+    <!-- InstallNav -->
+    <string name="installNav">Installeer Google Maps Navigation</string>
+    <string name="installInfo">U hebt Google Maps Navigation niet geïnstalleerd. Nav Launcher vereist Google Maps Navigation. Wilt u naar de Market gaan om Google Maps te downloaden?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Voeg favoriet toe</string>
+    <string name="addQuickFavorite">Voeg snelkoppeling toe</string>
+    <string name="destinationName">Naam:</string>
+    <string name="destinationAddress">Adres:</string>
+    <string name="favoritePicture">Afbeelding:</string>
+    <string name="add">Toevoegen</string>
+    <string name="modify">Wijzigen</string>
+    <string name="remove">Verwijderen</string>
+    <string name="enterNameAddress">U moet een naam en adres invoeren.</string>
+    <!-- History -->
+    <string name="clear">Leegmaken</string>
+    <string name="clearConfirm">Weet u zeker dat u de geschiedenis wilt wissen?</string>
+    <!-- Settings -->
+    <string name="settings">Instellingen</string>
+    <string name="startupScreen">Opstartscherm</string>
+    <string name="startupScreenMain">Overzicht</string>
+    <string name="replaceCarDock">Vervang Car Home</string>
+    <string name="save">Opslaan</string>
+
+</resources>

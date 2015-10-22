@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2.1.0 -->
+<resources>
+
+    <!-- NavLauncher -->
+    <string name="selectContact">Vybrat\nkontakt</string>
+    <string name="favorites">Oblíbené</string>
+    <string name="history">Historie</string>
+    <!-- About -->
+    <string name="about">O programu</string>
+    <string name="aboutText">Nav Launcher verze [VERSION]</string>
+    <string name="copyright">Všechna práva vyhrazena, 2009&#8211;2012 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps a Google Maps Navigation, všechna práva vyhrazena, 2012 Google</string>
+    <string name="translationCredits">Český překlad od hXc</string>
+    <!-- InstallNav -->
+    <string name="installNav">Instalovat Google Maps Navigation</string>
+    <string name="installInfo">Nemáte nainstalován Google Maps Navigation. Nav Launcher vyžaduje Google Maps Navigation.</string>
+    <!-- Favorites -->
+    <string name="addFavorite">Přidat do oblíbených</string>
+    <string name="destinationName">Název cíle:</string>
+    <string name="destinationAddress">Adresa cíle:</string>
+    <string name="add">Přidat</string>
+    <string name="modify">Upravit</string>
+    <string name="remove">Odstranit</string>
+    <string name="enterNameAddress">Musíte zadat název a adresu cíle.</string>
+
+</resources>
