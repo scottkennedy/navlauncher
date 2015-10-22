@@ -9,8 +9,8 @@
     <!-- About -->
     <string name="about">O programu</string>
     <string name="aboutText">Nav Launcher verze [VERSION]</string>
-    <string name="copyright">Všechna práva vyhrazena, 2009&#8211;2012 Scott Kennedy</string>
-    <string name="googleCopyright">Google Maps a Google Maps Navigation, všechna práva vyhrazena, 2012 Google</string>
+    <string name="copyright">Všechna práva vyhrazena, 2009&#8211;2015 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps a Google Maps Navigation, všechna práva vyhrazena, 2015 Google</string>
     <string name="translationCredits">Český překlad od hXc</string>
     <!-- InstallNav -->
     <string name="installNav">Instalovat Google Maps Navigation</string>

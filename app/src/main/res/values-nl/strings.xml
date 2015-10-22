@@ -9,8 +9,8 @@
     <!-- About -->
     <string name="about">Over</string>
     <string name="aboutText">Nav Launcher versie [VERSION]</string>
-    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
-    <string name="googleCopyright">Google Maps en Google Maps Navigation copyright 2012 Google</string>
+    <string name="copyright">Copyright 2009&#8211;2015 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps en Google Maps Navigation copyright 2015 Google</string>
     <string name="translationCredits">Nederlandse vertaling door SteveMcAwesome</string>
     <!-- InstallNav -->
     <string name="installNav">Installeer Google Maps Navigation</string>

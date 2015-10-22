@@ -9,8 +9,8 @@
     <!-- About -->
     <string name="about">インフォ</string>
     <string name="aboutText">Nav Launcherバージョン [VERSION]</string>
-    <string name="copyright">Copyright 2009&#8211;2012 Scott Kennedy</string>
-    <string name="googleCopyright">Google Maps and Google Maps Navigation Copyright 2012 Google</string>
+    <string name="copyright">Copyright 2009&#8211;2015 Scott Kennedy</string>
+    <string name="googleCopyright">Google Maps and Google Maps Navigation Copyright 2015 Google</string>
     <string name="translationCredits">日本語化：流兎</string>
     <!-- InstallNav -->
     <string name="installNav">Google Mapsナビをインストール</string>
